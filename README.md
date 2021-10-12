@@ -1,6 +1,6 @@
 # Boss Machine
 
-[Boss Machine](http://carokrny.github.io/boss-machine) is a basic back-end web project built with Node.js and Express.
+[Boss Machine](https://carokrny.github.io/boss-machine/) is a basic back-end web project built with Node.js and Express that keeps track of your minions and million dollar ideas.
 
 ## Table of Contents 
 * [Introduction](#introduction)
@@ -24,7 +24,7 @@ This project was created to practice creating a RESTful API and middleware with 
 
 You should use [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) (at least version 60) or [Firefox](https://www.mozilla.org/en-US/firefox/new/) (at least version 55) to use Boss Machine.
 
-View live site [here](http://carokrny.github.io/boss-machine)!
+View live site [here](https://carokrny.github.io/boss-machine/)!
 
 ## Technologies 
 
