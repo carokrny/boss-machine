@@ -2,6 +2,8 @@
 
 [Boss Machine](https://carokrny.github.io/boss-machine/) is a basic back-end web project built with Node.js and Express that keeps track of your minions and million dollar ideas.
 
+[![Screenshot of Boss Machine landing page](./public/img/screenshot.png)](https://carokrny.github.io/boss-machine/)
+
 ## Table of Contents 
 * [Introduction](#introduction)
 * [Set Up](#set-up)
